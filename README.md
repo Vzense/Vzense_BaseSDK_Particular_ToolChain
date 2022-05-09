@@ -10,12 +10,6 @@ VzenseSDK_Linux
 - DCAM550P
 - DCAM560C
 
-### Supported Platform
-
-- Ubuntu16.04, 18.04, 20.04 (x86_64 platform), e.g. intel i5,i7
-- arm64 embedded platform, e.g. Nvidia Jetson, NXP IMX8, RK3399
-- arm32 embedded platform, e.g. RK3288
-
 ### Folder description
 
 - Naming Conventions
